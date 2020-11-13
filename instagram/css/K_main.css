@@ -91,4 +91,33 @@
 
 
 
+.m-pointer-cursor {
+    cursor: pointer;
+}
 
+.modal-coustom {
+    width: 400px;
+    height: 80%;
+    margin-left: 50px;
+    /* border-radius: 5px !important; */
+}
+
+.btn:focus,
+.btn:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+.m-custom-size {
+    width: 450px;
+    height: 400px;
+
+}
+
+.m-radius-5 {
+    border-radius: 15px !important;
+}
+
+.m-z-index{
+    z-index: 2;
+}
